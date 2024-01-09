@@ -1,0 +1,76 @@
+
+body{
+    background-color: #FFFFFF;
+}
+
+
+
+td
+{
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+    color: white;
+    
+}
+
+.number
+{
+line-height: 0px;
+font-size: 12px;
+font-weight: bold;
+
+}
+
+
+.name
+{
+line-height: 0px;
+font-weight: bold;
+}
+
+.category1
+{
+    background-color: rgb(83, 173, 98);
+}
+
+.category2
+{
+    background-color: rgb(247, 20, 65);
+}
+
+.category3
+{
+    background-color: rgb(247, 183, 20);
+}
+
+.category4
+{
+    background-color: rgb(62, 163, 240 );
+}
+
+.category5
+{
+    background-color: rgb(175, 50, 237);
+}
+
+.category6
+{
+    background-color: rgb(228, 237, 50);
+}
+
+.category7
+{
+    background-color: rgb(237, 50, 203);
+}
+
+.category8
+{
+    background-color: gray;
+}
+
+.category9
+{
+    background-color:royalblue;
+}
